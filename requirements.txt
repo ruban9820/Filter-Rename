@@ -7,7 +7,7 @@ umongo==3.0.1
 requests
 bs4
 imdbpy==2022.7.9
-aiohttp
+aiohttp==3.8.1
 pytz
 hachoir
 Pillow
@@ -15,3 +15,5 @@ humanize
 aiofiles
 dnspython 
 pynewtonmath
+Flask==2.2.2
+gunicorn==20.1.0
